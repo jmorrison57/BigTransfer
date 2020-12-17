@@ -1,6 +1,6 @@
 # BigTransfer
 
-This repo contains a word doc that addresses the various tasks:
+This repo contains a doc that addresses the various tasks:
 
 Tasks / Rubric (100 points)
 1. Write a 2 page (excluding pictures) summary of what transfer learning (10 points)
